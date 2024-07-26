@@ -36,3 +36,8 @@ print(transcript)
 # print(type(title))
 # print(type(plot))
 # print(type(transcript))
+
+
+#Exporting the scrapped data
+with open(f'{title}.txt','w') as file:
+    file.write(transcript)

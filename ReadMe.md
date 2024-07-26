@@ -1,6 +1,6 @@
 # Notes:
 
-## Basic Definiton
+## Basic Packages
 1.  There are essentially three packages that can be used to scrape websites.
 2.  These **three** packages include:
     - **Beautiful Soup** (great for beginners, only can scrape HTML)
@@ -183,4 +183,13 @@ When identifying elements in an HTML tree during web scraping, it's important to
 - **Priority**: Lowest
 - **Reason**: Using only the tag name is the least specific method and should generally be avoided unless combined with other selectors or used within a small, controlled scope.
 - **Example**: `p`, `div`
+
+
+## Different Scraping Mehtods:
+
+-   <u>**Beautiful Soup**</u>
+1.  **`find()`**: returns a string element that contains the impacted content of a tag
+2.  **`find_all()`**: return a list of all the tags. **The datatype of these list elements is: `bs4.element.Tag`. You can write .get('href') to get a particular attribute of the tag.
+3.  **`find_all()`**: You can use `find_all(<attribute>=True)` to find out all the tags which have the value of attribute populated.
+4.  
 
