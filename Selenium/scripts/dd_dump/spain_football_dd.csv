@@ -1,0 +1,761 @@
+date,home_team,score,away_team
+14-08-2023,Cadiz,1 - 0,Alaves
+21-08-2023,Alaves,04-Mar,Sevilla
+28-08-2023,Getafe,1 - 0,Alaves
+02-09-2023,Alaves,1 - 0,Valencia
+15-09-2023,Vallecano,2 - 0,Alaves
+22-09-2023,Alaves,0 - 2,Ath Bilbao
+28-09-2023,Celta,01-Jan,Alaves
+01-10-2023,Alaves,0 - 2,Osasuna
+08-10-2023,Alaves,01-Jan,Betis
+22-10-2023,Villarreal,01-Jan,Alaves
+29-10-2023,Ath Madrid,02-Jan,Alaves
+05-11-2023,Alaves,1 - 0,Almeria
+12-11-2023,Barcelona,02-Jan,Alaves
+24-11-2023,Alaves,03-Jan,Granada
+03-12-2023,Mallorca,0 - 0,Alaves
+09-12-2023,Alaves,0 - 1,Las Palmas
+18-12-2023,Girona,3 - 0,Alaves
+21-12-2023,Alaves,0 - 1,Real Madrid
+02-01-2024,Sociedad,01-Jan,Alaves
+12-01-2024,Sevilla,02-Mar,Alaves
+19-01-2024,Alaves,1 - 0,Cadiz
+26-01-2024,Almeria,0 - 3,Alaves
+03-02-2024,Alaves,01-Mar,Barcelona
+10-02-2024,Alaves,01-Jan,Villarreal
+18-02-2024,Betis,0 - 0,Alaves
+24-02-2024,Alaves,01-Jan,Mallorca
+04-03-2024,Osasuna,1 - 0,Alaves
+10-03-2024,Alaves,1 - 0,Vallecano
+16-03-2024,Ath Bilbao,2 - 0,Alaves
+31-03-2024,Alaves,0 - 1,Sociedad
+14-04-2024,Granada,2 - 0,Alaves
+21-04-2024,Alaves,2 - 0,Ath Madrid
+27-04-2024,Alaves,3 - 0,Celta
+05-05-2024,Valencia,0 - 1,Alaves
+10-05-2024,Alaves,02-Feb,Girona
+14-05-2024,Real Madrid,5 - 0,Alaves
+18-05-2024,Alaves,1 - 0,Getafe
+26-05-2024,Las Palmas,01-Jan,Alaves
+11-08-2023,Almeria,0 - 2,Vallecano
+19-08-2023,Almeria,01-Mar,Real Madrid
+26-08-2023,Cadiz,01-Jan,Almeria
+01-09-2023,Almeria,02-Mar,Celta
+17-09-2023,Villarreal,02-Jan,Almeria
+23-09-2023,Almeria,02-Feb,Valencia
+26-09-2023,Sevilla,05-Jan,Almeria
+01-10-2023,Almeria,03-Mar,Granada
+06-10-2023,Ath Bilbao,3 - 0,Almeria
+22-10-2023,Girona,05-Feb,Almeria
+28-10-2023,Almeria,01-Feb,Las Palmas
+05-11-2023,Alaves,1 - 0,Almeria
+11-11-2023,Almeria,01-Mar,Sociedad
+25-11-2023,Getafe,02-Jan,Almeria
+03-12-2023,Almeria,0 - 0,Betis
+10-12-2023,Ath Madrid,02-Jan,Almeria
+17-12-2023,Almeria,0 - 0,Mallorca
+20-12-2023,Barcelona,03-Feb,Almeria
+04-01-2024,Osasuna,1 - 0,Almeria
+14-01-2024,Almeria,0 - 0,Girona
+21-01-2024,Real Madrid,03-Feb,Almeria
+26-01-2024,Almeria,0 - 3,Alaves
+03-02-2024,Valencia,02-Jan,Almeria
+12-02-2024,Almeria,0 - 0,Ath Bilbao
+18-02-2024,Granada,01-Jan,Almeria
+24-02-2024,Almeria,02-Feb,Ath Madrid
+01-03-2024,Celta,1 - 0,Almeria
+11-03-2024,Almeria,02-Feb,Sevilla
+17-03-2024,Las Palmas,0 - 1,Almeria
+30-03-2024,Almeria,0 - 3,Osasuna
+14-04-2024,Sociedad,02-Feb,Almeria
+21-04-2024,Almeria,01-Feb,Villarreal
+27-04-2024,Almeria,01-Mar,Getafe
+05-05-2024,Vallecano,0 - 1,Almeria
+12-05-2024,Betis,03-Feb,Almeria
+16-05-2024,Almeria,0 - 2,Barcelona
+19-05-2024,Mallorca,02-Feb,Almeria
+25-05-2024,Almeria,06-Jan,Cadiz
+12-08-2023,Ath Bilbao,0 - 2,Real Madrid
+19-08-2023,Osasuna,0 - 2,Ath Bilbao
+27-08-2023,Ath Bilbao,04-Feb,Betis
+03-09-2023,Mallorca,0 - 0,Ath Bilbao
+16-09-2023,Ath Bilbao,3 - 0,Cadiz
+22-09-2023,Alaves,0 - 2,Ath Bilbao
+27-09-2023,Ath Bilbao,02-Feb,Getafe
+30-09-2023,Sociedad,3 - 0,Ath Bilbao
+06-10-2023,Ath Bilbao,3 - 0,Almeria
+22-10-2023,Barcelona,1 - 0,Ath Bilbao
+29-10-2023,Ath Bilbao,02-Feb,Valencia
+05-11-2023,Villarreal,02-Mar,Ath Bilbao
+10-11-2023,Ath Bilbao,04-Mar,Celta
+27-11-2023,Girona,01-Jan,Ath Bilbao
+02-12-2023,Ath Bilbao,4 - 0,Vallecano
+11-12-2023,Granada,01-Jan,Ath Bilbao
+16-12-2023,Ath Bilbao,2 - 0,Ath Madrid
+20-12-2023,Ath Bilbao,1 - 0,Las Palmas
+04-01-2024,Sevilla,0 - 2,Ath Bilbao
+13-01-2024,Ath Bilbao,02-Jan,Sociedad
+20-01-2024,Valencia,1 - 0,Ath Bilbao
+28-01-2024,Cadiz,0 - 0,Ath Bilbao
+02-02-2024,Ath Bilbao,4 - 0,Mallorca
+12-02-2024,Almeria,0 - 0,Ath Bilbao
+19-02-2024,Ath Bilbao,03-Feb,Girona
+25-02-2024,Betis,03-Jan,Ath Bilbao
+03-03-2024,Ath Bilbao,0 - 0,Barcelona
+10-03-2024,Las Palmas,0 - 2,Ath Bilbao
+16-03-2024,Ath Bilbao,2 - 0,Alaves
+31-03-2024,Real Madrid,2 - 0,Ath Bilbao
+14-04-2024,Ath Bilbao,01-Jan,Villarreal
+19-04-2024,Ath Bilbao,01-Jan,Granada
+27-04-2024,Ath Madrid,03-Jan,Ath Bilbao
+03-05-2024,Getafe,0 - 2,Ath Bilbao
+11-05-2024,Ath Bilbao,02-Feb,Osasuna
+15-05-2024,Celta,02-Jan,Ath Bilbao
+19-05-2024,Ath Bilbao,2 - 0,Sevilla
+25-05-2024,Vallecano,0 - 1,Ath Bilbao
+14-08-2023,Ath Madrid,03-Jan,Granada
+20-08-2023,Betis,0 - 0,Ath Madrid
+28-08-2023,Vallecano,0 - 7,Ath Madrid
+16-09-2023,Valencia,3 - 0,Ath Madrid
+24-09-2023,Ath Madrid,03-Jan,Real Madrid
+28-09-2023,Osasuna,0 - 2,Ath Madrid
+01-10-2023,Ath Madrid,03-Feb,Cadiz
+08-10-2023,Ath Madrid,02-Jan,Sociedad
+21-10-2023,Celta,0 - 3,Ath Madrid
+29-10-2023,Ath Madrid,02-Jan,Alaves
+03-11-2023,Las Palmas,02-Jan,Ath Madrid
+12-11-2023,Ath Madrid,03-Jan,Villarreal
+25-11-2023,Ath Madrid,1 - 0,Mallorca
+03-12-2023,Barcelona,1 - 0,Ath Madrid
+10-12-2023,Ath Madrid,02-Jan,Almeria
+16-12-2023,Ath Bilbao,2 - 0,Ath Madrid
+19-12-2023,Ath Madrid,03-Mar,Getafe
+23-12-2023,Ath Madrid,1 - 0,Sevilla
+03-01-2024,Girona,04-Mar,Ath Madrid
+22-01-2024,Granada,0 - 1,Ath Madrid
+28-01-2024,Ath Madrid,2 - 0,Valencia
+31-01-2024,Ath Madrid,02-Jan,Vallecano
+04-02-2024,Real Madrid,01-Jan,Ath Madrid
+11-02-2024,Sevilla,1 - 0,Ath Madrid
+17-02-2024,Ath Madrid,5 - 0,Las Palmas
+24-02-2024,Almeria,02-Feb,Ath Madrid
+03-03-2024,Ath Madrid,02-Jan,Betis
+09-03-2024,Cadiz,2 - 0,Ath Madrid
+17-03-2024,Ath Madrid,0 - 3,Barcelona
+01-04-2024,Villarreal,01-Feb,Ath Madrid
+13-04-2024,Ath Madrid,03-Jan,Girona
+21-04-2024,Alaves,2 - 0,Ath Madrid
+27-04-2024,Ath Madrid,03-Jan,Ath Bilbao
+04-05-2024,Mallorca,0 - 1,Ath Madrid
+12-05-2024,Ath Madrid,1 - 0,Celta
+15-05-2024,Getafe,0 - 3,Ath Madrid
+19-05-2024,Ath Madrid,01-Apr,Osasuna
+25-05-2024,Sociedad,0 - 2,Ath Madrid
+13-08-2023,Getafe,0 - 0,Barcelona
+20-08-2023,Barcelona,2 - 0,Cadiz
+27-08-2023,Villarreal,03-Apr,Barcelona
+03-09-2023,Osasuna,01-Feb,Barcelona
+16-09-2023,Barcelona,5 - 0,Betis
+23-09-2023,Barcelona,03-Feb,Celta
+26-09-2023,Mallorca,02-Feb,Barcelona
+29-09-2023,Barcelona,1 - 0,Sevilla
+08-10-2023,Granada,02-Feb,Barcelona
+22-10-2023,Barcelona,1 - 0,Ath Bilbao
+28-10-2023,Barcelona,01-Feb,Real Madrid
+04-11-2023,Sociedad,0 - 1,Barcelona
+12-11-2023,Barcelona,02-Jan,Alaves
+25-11-2023,Vallecano,01-Jan,Barcelona
+03-12-2023,Barcelona,1 - 0,Ath Madrid
+10-12-2023,Barcelona,02-Apr,Girona
+16-12-2023,Valencia,01-Jan,Barcelona
+20-12-2023,Barcelona,03-Feb,Almeria
+04-01-2024,Las Palmas,01-Feb,Barcelona
+21-01-2024,Betis,02-Apr,Barcelona
+27-01-2024,Barcelona,03-May,Villarreal
+31-01-2024,Barcelona,1 - 0,Osasuna
+03-02-2024,Alaves,01-Mar,Barcelona
+11-02-2024,Barcelona,03-Mar,Granada
+17-02-2024,Celta,01-Feb,Barcelona
+24-02-2024,Barcelona,4 - 0,Getafe
+03-03-2024,Ath Bilbao,0 - 0,Barcelona
+08-03-2024,Barcelona,1 - 0,Mallorca
+17-03-2024,Ath Madrid,0 - 3,Barcelona
+30-03-2024,Barcelona,1 - 0,Las Palmas
+13-04-2024,Cadiz,0 - 1,Barcelona
+21-04-2024,Real Madrid,03-Feb,Barcelona
+29-04-2024,Barcelona,04-Feb,Valencia
+04-05-2024,Girona,04-Feb,Barcelona
+13-05-2024,Barcelona,2 - 0,Sociedad
+16-05-2024,Almeria,0 - 2,Barcelona
+19-05-2024,Barcelona,3 - 0,Vallecano
+26-05-2024,Sevilla,01-Feb,Barcelona
+13-08-2023,Villarreal,01-Feb,Betis
+20-08-2023,Betis,0 - 0,Ath Madrid
+27-08-2023,Ath Bilbao,04-Feb,Betis
+02-09-2023,Betis,1 - 0,Vallecano
+16-09-2023,Barcelona,5 - 0,Betis
+24-09-2023,Betis,01-Jan,Cadiz
+28-09-2023,Granada,01-Jan,Betis
+01-10-2023,Betis,3 - 0,Valencia
+08-10-2023,Alaves,01-Jan,Betis
+21-10-2023,Getafe,01-Jan,Betis
+29-10-2023,Betis,02-Jan,Osasuna
+04-11-2023,Betis,2 - 0,Mallorca
+12-11-2023,Sevilla,01-Jan,Betis
+26-11-2023,Betis,1 - 0,Las Palmas
+03-12-2023,Almeria,0 - 0,Betis
+09-12-2023,Betis,01-Jan,Real Madrid
+17-12-2023,Sociedad,0 - 0,Betis
+21-12-2023,Betis,01-Jan,Girona
+03-01-2024,Celta,02-Jan,Betis
+13-01-2024,Betis,1 - 0,Granada
+21-01-2024,Betis,02-Apr,Barcelona
+27-01-2024,Mallorca,0 - 1,Betis
+04-02-2024,Betis,01-Jan,Getafe
+09-02-2024,Cadiz,0 - 2,Betis
+18-02-2024,Betis,0 - 0,Alaves
+25-02-2024,Betis,03-Jan,Ath Bilbao
+03-03-2024,Ath Madrid,02-Jan,Betis
+10-03-2024,Betis,02-Mar,Villarreal
+17-03-2024,Vallecano,2 - 0,Betis
+31-03-2024,Girona,03-Feb,Betis
+12-04-2024,Betis,02-Jan,Celta
+20-04-2024,Valencia,01-Feb,Betis
+28-04-2024,Betis,01-Jan,Sevilla
+05-05-2024,Osasuna,0 - 2,Betis
+12-05-2024,Betis,03-Feb,Almeria
+16-05-2024,Las Palmas,02-Feb,Betis
+19-05-2024,Betis,0 - 2,Sociedad
+25-05-2024,Real Madrid,0 - 0,Betis
+14-08-2023,Cadiz,1 - 0,Alaves
+20-08-2023,Barcelona,2 - 0,Cadiz
+26-08-2023,Cadiz,01-Jan,Almeria
+01-09-2023,Cadiz,03-Jan,Villarreal
+16-09-2023,Ath Bilbao,3 - 0,Cadiz
+24-09-2023,Betis,01-Jan,Cadiz
+27-09-2023,Cadiz,0 - 0,Vallecano
+01-10-2023,Ath Madrid,03-Feb,Cadiz
+07-10-2023,Cadiz,0 - 1,Girona
+23-10-2023,Valencia,2 - 0,Cadiz
+28-10-2023,Cadiz,02-Feb,Sevilla
+06-11-2023,Getafe,1 - 0,Cadiz
+26-11-2023,Cadiz,0 - 3,Real Madrid
+29-11-2023,Mallorca,01-Jan,Cadiz
+04-12-2023,Celta,01-Jan,Cadiz
+10-12-2023,Cadiz,01-Jan,Osasuna
+17-12-2023,Las Palmas,01-Jan,Cadiz
+21-12-2023,Cadiz,0 - 0,Sociedad
+03-01-2024,Granada,2 - 0,Cadiz
+14-01-2024,Cadiz,01-Apr,Valencia
+19-01-2024,Alaves,1 - 0,Cadiz
+28-01-2024,Cadiz,0 - 0,Ath Bilbao
+04-02-2024,Villarreal,0 - 0,Cadiz
+09-02-2024,Cadiz,0 - 2,Betis
+17-02-2024,Osasuna,2 - 0,Cadiz
+25-02-2024,Cadiz,02-Feb,Celta
+02-03-2024,Vallecano,01-Jan,Cadiz
+09-03-2024,Cadiz,2 - 0,Ath Madrid
+15-03-2024,Sociedad,2 - 0,Cadiz
+29-03-2024,Cadiz,1 - 0,Granada
+13-04-2024,Cadiz,0 - 1,Barcelona
+20-04-2024,Girona,04-Jan,Cadiz
+28-04-2024,Cadiz,01-Jan,Mallorca
+04-05-2024,Real Madrid,3 - 0,Cadiz
+12-05-2024,Cadiz,1 - 0,Getafe
+15-05-2024,Sevilla,0 - 1,Cadiz
+19-05-2024,Cadiz,0 - 0,Las Palmas
+25-05-2024,Almeria,06-Jan,Cadiz
+13-08-2023,Celta,0 - 2,Osasuna
+19-08-2023,Sociedad,01-Jan,Celta
+25-08-2023,Celta,0 - 1,Real Madrid
+01-09-2023,Almeria,02-Mar,Celta
+16-09-2023,Celta,0 - 1,Mallorca
+23-09-2023,Barcelona,03-Feb,Celta
+28-09-2023,Celta,01-Jan,Alaves
+02-10-2023,Las Palmas,02-Jan,Celta
+08-10-2023,Celta,02-Feb,Getafe
+21-10-2023,Celta,0 - 3,Ath Madrid
+27-10-2023,Girona,1 - 0,Celta
+04-11-2023,Celta,01-Jan,Sevilla
+10-11-2023,Ath Bilbao,04-Mar,Celta
+25-11-2023,Valencia,0 - 0,Celta
+04-12-2023,Celta,01-Jan,Cadiz
+11-12-2023,Vallecano,0 - 0,Celta
+16-12-2023,Celta,1 - 0,Granada
+20-12-2023,Villarreal,03-Feb,Celta
+03-01-2024,Celta,02-Jan,Betis
+13-01-2024,Mallorca,01-Jan,Celta
+20-01-2024,Celta,0 - 1,Sociedad
+28-01-2024,Celta,0 - 1,Girona
+04-02-2024,Osasuna,0 - 3,Celta
+11-02-2024,Getafe,03-Feb,Celta
+17-02-2024,Celta,01-Feb,Barcelona
+25-02-2024,Cadiz,02-Feb,Celta
+01-03-2024,Celta,1 - 0,Almeria
+10-03-2024,Real Madrid,4 - 0,Celta
+17-03-2024,Sevilla,01-Feb,Celta
+31-03-2024,Celta,0 - 0,Vallecano
+12-04-2024,Betis,02-Jan,Celta
+20-04-2024,Celta,04-Jan,Las Palmas
+27-04-2024,Alaves,3 - 0,Celta
+05-05-2024,Celta,03-Feb,Villarreal
+12-05-2024,Ath Madrid,1 - 0,Celta
+15-05-2024,Celta,02-Jan,Ath Bilbao
+19-05-2024,Granada,01-Feb,Celta
+26-05-2024,Celta,02-Feb,Valencia
+13-08-2023,Getafe,0 - 0,Barcelona
+20-08-2023,Girona,3 - 0,Getafe
+28-08-2023,Getafe,1 - 0,Alaves
+02-09-2023,Real Madrid,02-Jan,Getafe
+17-09-2023,Getafe,03-Feb,Osasuna
+24-09-2023,Sociedad,04-Mar,Getafe
+27-09-2023,Ath Bilbao,02-Feb,Getafe
+30-09-2023,Getafe,0 - 0,Villarreal
+08-10-2023,Celta,02-Feb,Getafe
+21-10-2023,Getafe,01-Jan,Betis
+28-10-2023,Mallorca,0 - 0,Getafe
+06-11-2023,Getafe,1 - 0,Cadiz
+11-11-2023,Granada,01-Jan,Getafe
+25-11-2023,Getafe,02-Jan,Almeria
+01-12-2023,Las Palmas,2 - 0,Getafe
+08-12-2023,Getafe,1 - 0,Valencia
+16-12-2023,Sevilla,0 - 3,Getafe
+19-12-2023,Ath Madrid,03-Mar,Getafe
+02-01-2024,Getafe,0 - 2,Vallecano
+21-01-2024,Osasuna,03-Feb,Getafe
+29-01-2024,Getafe,2 - 0,Granada
+01-02-2024,Getafe,0 - 2,Real Madrid
+04-02-2024,Betis,01-Jan,Getafe
+11-02-2024,Getafe,03-Feb,Celta
+16-02-2024,Villarreal,01-Jan,Getafe
+24-02-2024,Barcelona,4 - 0,Getafe
+02-03-2024,Getafe,03-Mar,Las Palmas
+09-03-2024,Valencia,1 - 0,Getafe
+16-03-2024,Getafe,1 - 0,Girona
+30-03-2024,Getafe,0 - 1,Sevilla
+13-04-2024,Vallecano,0 - 0,Getafe
+21-04-2024,Getafe,01-Jan,Sociedad
+27-04-2024,Almeria,01-Mar,Getafe
+03-05-2024,Getafe,0 - 2,Ath Bilbao
+12-05-2024,Cadiz,1 - 0,Getafe
+15-05-2024,Getafe,0 - 3,Ath Madrid
+18-05-2024,Alaves,1 - 0,Getafe
+26-05-2024,Getafe,01-Feb,Mallorca
+12-08-2023,Sociedad,01-Jan,Girona
+20-08-2023,Girona,3 - 0,Getafe
+26-08-2023,Sevilla,01-Feb,Girona
+03-09-2023,Girona,1 - 0,Las Palmas
+18-09-2023,Granada,02-Apr,Girona
+23-09-2023,Girona,05-Mar,Mallorca
+27-09-2023,Villarreal,01-Feb,Girona
+30-09-2023,Girona,0 - 3,Real Madrid
+07-10-2023,Cadiz,0 - 1,Girona
+22-10-2023,Girona,05-Feb,Almeria
+27-10-2023,Girona,1 - 0,Celta
+04-11-2023,Osasuna,02-Apr,Girona
+11-11-2023,Vallecano,01-Feb,Girona
+27-11-2023,Girona,01-Jan,Ath Bilbao
+02-12-2023,Girona,02-Jan,Valencia
+10-12-2023,Barcelona,02-Apr,Girona
+18-12-2023,Girona,3 - 0,Alaves
+21-12-2023,Betis,01-Jan,Girona
+03-01-2024,Girona,04-Mar,Ath Madrid
+14-01-2024,Almeria,0 - 0,Girona
+21-01-2024,Girona,05-Jan,Sevilla
+28-01-2024,Celta,0 - 1,Girona
+03-02-2024,Girona,0 - 0,Sociedad
+10-02-2024,Real Madrid,4 - 0,Girona
+19-02-2024,Ath Bilbao,03-Feb,Girona
+26-02-2024,Girona,3 - 0,Vallecano
+03-03-2024,Mallorca,1 - 0,Girona
+09-03-2024,Girona,2 - 0,Osasuna
+16-03-2024,Getafe,1 - 0,Girona
+31-03-2024,Girona,03-Feb,Betis
+13-04-2024,Ath Madrid,03-Jan,Girona
+20-04-2024,Girona,04-Jan,Cadiz
+27-04-2024,Las Palmas,0 - 2,Girona
+04-05-2024,Girona,04-Feb,Barcelona
+10-05-2024,Alaves,02-Feb,Girona
+14-05-2024,Girona,0 - 1,Villarreal
+19-05-2024,Valencia,01-Mar,Girona
+24-05-2024,Girona,7 - 0,Granada
+14-08-2023,Ath Madrid,03-Jan,Granada
+21-08-2023,Granada,0 - 2,Vallecano
+26-08-2023,Granada,03-Feb,Mallorca
+02-09-2023,Sociedad,05-Mar,Granada
+18-09-2023,Granada,02-Apr,Girona
+24-09-2023,Las Palmas,1 - 0,Granada
+28-09-2023,Granada,01-Jan,Betis
+01-10-2023,Almeria,03-Mar,Granada
+08-10-2023,Granada,02-Feb,Barcelona
+20-10-2023,Osasuna,2 - 0,Granada
+30-10-2023,Granada,02-Mar,Villarreal
+05-11-2023,Valencia,1 - 0,Granada
+11-11-2023,Granada,01-Jan,Getafe
+24-11-2023,Alaves,03-Jan,Granada
+02-12-2023,Real Madrid,2 - 0,Granada
+11-12-2023,Granada,01-Jan,Ath Bilbao
+16-12-2023,Celta,1 - 0,Granada
+19-12-2023,Granada,0 - 3,Sevilla
+03-01-2024,Granada,2 - 0,Cadiz
+13-01-2024,Betis,1 - 0,Granada
+22-01-2024,Granada,0 - 1,Ath Madrid
+29-01-2024,Getafe,2 - 0,Granada
+03-02-2024,Granada,01-Jan,Las Palmas
+11-02-2024,Barcelona,03-Mar,Granada
+18-02-2024,Granada,01-Jan,Almeria
+03-03-2024,Villarreal,05-Jan,Granada
+09-03-2024,Granada,02-Mar,Sociedad
+16-03-2024,Mallorca,1 - 0,Granada
+29-03-2024,Cadiz,1 - 0,Granada
+04-04-2024,Granada,0 - 1,Valencia
+14-04-2024,Granada,2 - 0,Alaves
+19-04-2024,Ath Bilbao,01-Jan,Granada
+28-04-2024,Granada,3 - 0,Osasuna
+05-05-2024,Sevilla,3 - 0,Granada
+11-05-2024,Granada,0 - 4,Real Madrid
+15-05-2024,Vallecano,02-Jan,Granada
+19-05-2024,Granada,01-Feb,Celta
+24-05-2024,Girona,7 - 0,Granada
+12-08-2023,Las Palmas,01-Jan,Mallorca
+18-08-2023,Valencia,1 - 0,Las Palmas
+25-08-2023,Las Palmas,0 - 0,Sociedad
+03-09-2023,Girona,1 - 0,Las Palmas
+17-09-2023,Sevilla,1 - 0,Las Palmas
+24-09-2023,Las Palmas,1 - 0,Granada
+27-09-2023,Real Madrid,2 - 0,Las Palmas
+02-10-2023,Las Palmas,02-Jan,Celta
+08-10-2023,Villarreal,01-Feb,Las Palmas
+22-10-2023,Las Palmas,0 - 1,Vallecano
+28-10-2023,Almeria,01-Feb,Las Palmas
+03-11-2023,Las Palmas,02-Jan,Ath Madrid
+11-11-2023,Osasuna,01-Jan,Las Palmas
+26-11-2023,Betis,1 - 0,Las Palmas
+01-12-2023,Las Palmas,2 - 0,Getafe
+09-12-2023,Alaves,0 - 1,Las Palmas
+17-12-2023,Las Palmas,01-Jan,Cadiz
+20-12-2023,Ath Bilbao,1 - 0,Las Palmas
+04-01-2024,Las Palmas,01-Feb,Barcelona
+13-01-2024,Las Palmas,3 - 0,Villarreal
+20-01-2024,Vallecano,0 - 2,Las Palmas
+27-01-2024,Las Palmas,01-Feb,Real Madrid
+03-02-2024,Granada,01-Jan,Las Palmas
+10-02-2024,Las Palmas,2 - 0,Valencia
+17-02-2024,Ath Madrid,5 - 0,Las Palmas
+25-02-2024,Las Palmas,01-Jan,Osasuna
+02-03-2024,Getafe,03-Mar,Las Palmas
+10-03-2024,Las Palmas,0 - 2,Ath Bilbao
+17-03-2024,Las Palmas,0 - 1,Almeria
+30-03-2024,Barcelona,1 - 0,Las Palmas
+14-04-2024,Las Palmas,0 - 2,Sevilla
+20-04-2024,Celta,04-Jan,Las Palmas
+27-04-2024,Las Palmas,0 - 2,Girona
+04-05-2024,Sociedad,2 - 0,Las Palmas
+11-05-2024,Mallorca,1 - 0,Las Palmas
+16-05-2024,Las Palmas,02-Feb,Betis
+19-05-2024,Cadiz,0 - 0,Las Palmas
+26-05-2024,Las Palmas,01-Jan,Alaves
+12-08-2023,Las Palmas,01-Jan,Mallorca
+18-08-2023,Mallorca,0 - 1,Villarreal
+26-08-2023,Granada,03-Feb,Mallorca
+03-09-2023,Mallorca,0 - 0,Ath Bilbao
+16-09-2023,Celta,0 - 1,Mallorca
+23-09-2023,Girona,05-Mar,Mallorca
+26-09-2023,Mallorca,02-Feb,Barcelona
+30-09-2023,Vallecano,02-Feb,Mallorca
+07-10-2023,Mallorca,01-Jan,Valencia
+21-10-2023,Sociedad,1 - 0,Mallorca
+28-10-2023,Mallorca,0 - 0,Getafe
+04-11-2023,Betis,2 - 0,Mallorca
+25-11-2023,Ath Madrid,1 - 0,Mallorca
+29-11-2023,Mallorca,01-Jan,Cadiz
+03-12-2023,Mallorca,0 - 0,Alaves
+09-12-2023,Mallorca,1 - 0,Sevilla
+17-12-2023,Almeria,0 - 0,Mallorca
+21-12-2023,Mallorca,03-Feb,Osasuna
+03-01-2024,Real Madrid,1 - 0,Mallorca
+13-01-2024,Mallorca,01-Jan,Celta
+20-01-2024,Villarreal,01-Jan,Mallorca
+27-01-2024,Mallorca,0 - 1,Betis
+02-02-2024,Ath Bilbao,4 - 0,Mallorca
+11-02-2024,Mallorca,02-Jan,Vallecano
+18-02-2024,Mallorca,01-Feb,Sociedad
+24-02-2024,Alaves,01-Jan,Mallorca
+03-03-2024,Mallorca,1 - 0,Girona
+08-03-2024,Barcelona,1 - 0,Mallorca
+16-03-2024,Mallorca,1 - 0,Granada
+30-03-2024,Valencia,0 - 0,Mallorca
+13-04-2024,Mallorca,0 - 1,Real Madrid
+22-04-2024,Sevilla,02-Jan,Mallorca
+28-04-2024,Cadiz,01-Jan,Mallorca
+04-05-2024,Mallorca,0 - 1,Ath Madrid
+11-05-2024,Mallorca,1 - 0,Las Palmas
+14-05-2024,Osasuna,01-Jan,Mallorca
+19-05-2024,Mallorca,02-Feb,Almeria
+26-05-2024,Getafe,01-Feb,Mallorca
+13-08-2023,Celta,0 - 2,Osasuna
+19-08-2023,Osasuna,0 - 2,Ath Bilbao
+27-08-2023,Valencia,01-Feb,Osasuna
+03-09-2023,Osasuna,01-Feb,Barcelona
+17-09-2023,Getafe,03-Feb,Osasuna
+23-09-2023,Osasuna,0 - 0,Sevilla
+28-09-2023,Osasuna,0 - 2,Ath Madrid
+01-10-2023,Alaves,0 - 2,Osasuna
+07-10-2023,Real Madrid,4 - 0,Osasuna
+20-10-2023,Osasuna,2 - 0,Granada
+29-10-2023,Betis,02-Jan,Osasuna
+04-11-2023,Osasuna,02-Apr,Girona
+11-11-2023,Osasuna,01-Jan,Las Palmas
+26-11-2023,Villarreal,03-Jan,Osasuna
+02-12-2023,Osasuna,01-Jan,Sociedad
+10-12-2023,Cadiz,01-Jan,Osasuna
+15-12-2023,Osasuna,1 - 0,Vallecano
+21-12-2023,Mallorca,03-Feb,Osasuna
+04-01-2024,Osasuna,1 - 0,Almeria
+21-01-2024,Osasuna,03-Feb,Getafe
+28-01-2024,Sevilla,01-Jan,Osasuna
+31-01-2024,Barcelona,1 - 0,Osasuna
+04-02-2024,Osasuna,0 - 3,Celta
+10-02-2024,Sociedad,0 - 1,Osasuna
+17-02-2024,Osasuna,2 - 0,Cadiz
+25-02-2024,Las Palmas,01-Jan,Osasuna
+04-03-2024,Osasuna,1 - 0,Alaves
+09-03-2024,Girona,2 - 0,Osasuna
+16-03-2024,Osasuna,02-Apr,Real Madrid
+30-03-2024,Almeria,0 - 3,Osasuna
+15-04-2024,Osasuna,0 - 1,Valencia
+20-04-2024,Vallecano,02-Jan,Osasuna
+28-04-2024,Granada,3 - 0,Osasuna
+05-05-2024,Osasuna,0 - 2,Betis
+11-05-2024,Ath Bilbao,02-Feb,Osasuna
+14-05-2024,Osasuna,01-Jan,Mallorca
+19-05-2024,Ath Madrid,01-Apr,Osasuna
+25-05-2024,Osasuna,01-Jan,Villarreal
+12-08-2023,Ath Bilbao,0 - 2,Real Madrid
+19-08-2023,Almeria,01-Mar,Real Madrid
+25-08-2023,Celta,0 - 1,Real Madrid
+02-09-2023,Real Madrid,02-Jan,Getafe
+17-09-2023,Real Madrid,02-Jan,Sociedad
+24-09-2023,Ath Madrid,03-Jan,Real Madrid
+27-09-2023,Real Madrid,2 - 0,Las Palmas
+30-09-2023,Girona,0 - 3,Real Madrid
+07-10-2023,Real Madrid,4 - 0,Osasuna
+21-10-2023,Sevilla,01-Jan,Real Madrid
+28-10-2023,Barcelona,01-Feb,Real Madrid
+05-11-2023,Real Madrid,0 - 0,Vallecano
+11-11-2023,Real Madrid,05-Jan,Valencia
+26-11-2023,Cadiz,0 - 3,Real Madrid
+02-12-2023,Real Madrid,2 - 0,Granada
+09-12-2023,Betis,01-Jan,Real Madrid
+17-12-2023,Real Madrid,04-Jan,Villarreal
+21-12-2023,Alaves,0 - 1,Real Madrid
+03-01-2024,Real Madrid,1 - 0,Mallorca
+21-01-2024,Real Madrid,03-Feb,Almeria
+27-01-2024,Las Palmas,01-Feb,Real Madrid
+01-02-2024,Getafe,0 - 2,Real Madrid
+04-02-2024,Real Madrid,01-Jan,Ath Madrid
+10-02-2024,Real Madrid,4 - 0,Girona
+18-02-2024,Vallecano,01-Jan,Real Madrid
+25-02-2024,Real Madrid,1 - 0,Sevilla
+02-03-2024,Valencia,02-Feb,Real Madrid
+10-03-2024,Real Madrid,4 - 0,Celta
+16-03-2024,Osasuna,02-Apr,Real Madrid
+31-03-2024,Real Madrid,2 - 0,Ath Bilbao
+13-04-2024,Mallorca,0 - 1,Real Madrid
+21-04-2024,Real Madrid,03-Feb,Barcelona
+26-04-2024,Sociedad,0 - 1,Real Madrid
+04-05-2024,Real Madrid,3 - 0,Cadiz
+11-05-2024,Granada,0 - 4,Real Madrid
+14-05-2024,Real Madrid,5 - 0,Alaves
+19-05-2024,Villarreal,04-Apr,Real Madrid
+25-05-2024,Real Madrid,0 - 0,Betis
+11-08-2023,Sevilla,01-Feb,Valencia
+21-08-2023,Alaves,04-Mar,Sevilla
+26-08-2023,Sevilla,01-Feb,Girona
+17-09-2023,Sevilla,1 - 0,Las Palmas
+23-09-2023,Osasuna,0 - 0,Sevilla
+26-09-2023,Sevilla,05-Jan,Almeria
+29-09-2023,Barcelona,1 - 0,Sevilla
+07-10-2023,Sevilla,02-Feb,Vallecano
+21-10-2023,Sevilla,01-Jan,Real Madrid
+28-10-2023,Cadiz,02-Feb,Sevilla
+04-11-2023,Celta,01-Jan,Sevilla
+12-11-2023,Sevilla,01-Jan,Betis
+26-11-2023,Sociedad,02-Jan,Sevilla
+03-12-2023,Sevilla,01-Jan,Villarreal
+09-12-2023,Mallorca,1 - 0,Sevilla
+16-12-2023,Sevilla,0 - 3,Getafe
+19-12-2023,Granada,0 - 3,Sevilla
+23-12-2023,Ath Madrid,1 - 0,Sevilla
+04-01-2024,Sevilla,0 - 2,Ath Bilbao
+12-01-2024,Sevilla,02-Mar,Alaves
+21-01-2024,Girona,05-Jan,Sevilla
+28-01-2024,Sevilla,01-Jan,Osasuna
+05-02-2024,Vallecano,01-Feb,Sevilla
+11-02-2024,Sevilla,1 - 0,Ath Madrid
+17-02-2024,Valencia,0 - 0,Sevilla
+25-02-2024,Real Madrid,1 - 0,Sevilla
+02-03-2024,Sevilla,03-Feb,Sociedad
+11-03-2024,Almeria,02-Feb,Sevilla
+17-03-2024,Sevilla,01-Feb,Celta
+30-03-2024,Getafe,0 - 1,Sevilla
+14-04-2024,Las Palmas,0 - 2,Sevilla
+22-04-2024,Sevilla,02-Jan,Mallorca
+28-04-2024,Betis,01-Jan,Sevilla
+05-05-2024,Sevilla,3 - 0,Granada
+11-05-2024,Villarreal,03-Feb,Sevilla
+15-05-2024,Sevilla,0 - 1,Cadiz
+19-05-2024,Ath Bilbao,2 - 0,Sevilla
+26-05-2024,Sevilla,01-Feb,Barcelona
+12-08-2023,Sociedad,01-Jan,Girona
+19-08-2023,Sociedad,01-Jan,Celta
+25-08-2023,Las Palmas,0 - 0,Sociedad
+02-09-2023,Sociedad,05-Mar,Granada
+17-09-2023,Real Madrid,02-Jan,Sociedad
+24-09-2023,Sociedad,04-Mar,Getafe
+27-09-2023,Valencia,0 - 1,Sociedad
+30-09-2023,Sociedad,3 - 0,Ath Bilbao
+08-10-2023,Ath Madrid,02-Jan,Sociedad
+21-10-2023,Sociedad,1 - 0,Mallorca
+29-10-2023,Vallecano,02-Feb,Sociedad
+04-11-2023,Sociedad,0 - 1,Barcelona
+11-11-2023,Almeria,01-Mar,Sociedad
+26-11-2023,Sociedad,02-Jan,Sevilla
+02-12-2023,Osasuna,01-Jan,Sociedad
+09-12-2023,Villarreal,0 - 3,Sociedad
+17-12-2023,Sociedad,0 - 0,Betis
+21-12-2023,Cadiz,0 - 0,Sociedad
+02-01-2024,Sociedad,01-Jan,Alaves
+13-01-2024,Ath Bilbao,02-Jan,Sociedad
+20-01-2024,Celta,0 - 1,Sociedad
+27-01-2024,Sociedad,0 - 0,Vallecano
+03-02-2024,Girona,0 - 0,Sociedad
+10-02-2024,Sociedad,0 - 1,Osasuna
+18-02-2024,Mallorca,01-Feb,Sociedad
+23-02-2024,Sociedad,01-Mar,Villarreal
+02-03-2024,Sevilla,03-Feb,Sociedad
+09-03-2024,Granada,02-Mar,Sociedad
+15-03-2024,Sociedad,2 - 0,Cadiz
+31-03-2024,Alaves,0 - 1,Sociedad
+14-04-2024,Sociedad,02-Feb,Almeria
+21-04-2024,Getafe,01-Jan,Sociedad
+26-04-2024,Sociedad,0 - 1,Real Madrid
+04-05-2024,Sociedad,2 - 0,Las Palmas
+13-05-2024,Barcelona,2 - 0,Sociedad
+16-05-2024,Sociedad,1 - 0,Valencia
+19-05-2024,Betis,0 - 2,Sociedad
+25-05-2024,Sociedad,0 - 2,Ath Madrid
+11-08-2023,Sevilla,01-Feb,Valencia
+18-08-2023,Valencia,1 - 0,Las Palmas
+27-08-2023,Valencia,01-Feb,Osasuna
+02-09-2023,Alaves,1 - 0,Valencia
+16-09-2023,Valencia,3 - 0,Ath Madrid
+23-09-2023,Almeria,02-Feb,Valencia
+27-09-2023,Valencia,0 - 1,Sociedad
+01-10-2023,Betis,3 - 0,Valencia
+07-10-2023,Mallorca,01-Jan,Valencia
+23-10-2023,Valencia,2 - 0,Cadiz
+29-10-2023,Ath Bilbao,02-Feb,Valencia
+05-11-2023,Valencia,1 - 0,Granada
+11-11-2023,Real Madrid,05-Jan,Valencia
+25-11-2023,Valencia,0 - 0,Celta
+02-12-2023,Girona,02-Jan,Valencia
+08-12-2023,Getafe,1 - 0,Valencia
+16-12-2023,Valencia,01-Jan,Barcelona
+19-12-2023,Vallecano,0 - 1,Valencia
+02-01-2024,Valencia,03-Jan,Villarreal
+14-01-2024,Cadiz,01-Apr,Valencia
+20-01-2024,Valencia,1 - 0,Ath Bilbao
+28-01-2024,Ath Madrid,2 - 0,Valencia
+03-02-2024,Valencia,02-Jan,Almeria
+10-02-2024,Las Palmas,2 - 0,Valencia
+17-02-2024,Valencia,0 - 0,Sevilla
+02-03-2024,Valencia,02-Feb,Real Madrid
+09-03-2024,Valencia,1 - 0,Getafe
+17-03-2024,Villarreal,1 - 0,Valencia
+30-03-2024,Valencia,0 - 0,Mallorca
+04-04-2024,Granada,0 - 1,Valencia
+15-04-2024,Osasuna,0 - 1,Valencia
+20-04-2024,Valencia,01-Feb,Betis
+29-04-2024,Barcelona,04-Feb,Valencia
+05-05-2024,Valencia,0 - 1,Alaves
+12-05-2024,Valencia,0 - 0,Vallecano
+16-05-2024,Sociedad,1 - 0,Valencia
+19-05-2024,Valencia,01-Mar,Girona
+26-05-2024,Celta,02-Feb,Valencia
+11-08-2023,Almeria,0 - 2,Vallecano
+21-08-2023,Granada,0 - 2,Vallecano
+28-08-2023,Vallecano,0 - 7,Ath Madrid
+02-09-2023,Betis,1 - 0,Vallecano
+15-09-2023,Vallecano,2 - 0,Alaves
+24-09-2023,Vallecano,01-Jan,Villarreal
+27-09-2023,Cadiz,0 - 0,Vallecano
+30-09-2023,Vallecano,02-Feb,Mallorca
+07-10-2023,Sevilla,02-Feb,Vallecano
+22-10-2023,Las Palmas,0 - 1,Vallecano
+29-10-2023,Vallecano,02-Feb,Sociedad
+05-11-2023,Real Madrid,0 - 0,Vallecano
+11-11-2023,Vallecano,01-Feb,Girona
+25-11-2023,Vallecano,01-Jan,Barcelona
+02-12-2023,Ath Bilbao,4 - 0,Vallecano
+11-12-2023,Vallecano,0 - 0,Celta
+15-12-2023,Osasuna,1 - 0,Vallecano
+19-12-2023,Vallecano,0 - 1,Valencia
+02-01-2024,Getafe,0 - 2,Vallecano
+20-01-2024,Vallecano,0 - 2,Las Palmas
+27-01-2024,Sociedad,0 - 0,Vallecano
+31-01-2024,Ath Madrid,02-Jan,Vallecano
+05-02-2024,Vallecano,01-Feb,Sevilla
+11-02-2024,Mallorca,02-Jan,Vallecano
+18-02-2024,Vallecano,01-Jan,Real Madrid
+26-02-2024,Girona,3 - 0,Vallecano
+02-03-2024,Vallecano,01-Jan,Cadiz
+10-03-2024,Alaves,1 - 0,Vallecano
+17-03-2024,Vallecano,2 - 0,Betis
+31-03-2024,Celta,0 - 0,Vallecano
+13-04-2024,Vallecano,0 - 0,Getafe
+20-04-2024,Vallecano,02-Jan,Osasuna
+28-04-2024,Villarreal,3 - 0,Vallecano
+05-05-2024,Vallecano,0 - 1,Almeria
+12-05-2024,Valencia,0 - 0,Vallecano
+15-05-2024,Vallecano,02-Jan,Granada
+19-05-2024,Barcelona,3 - 0,Vallecano
+25-05-2024,Vallecano,0 - 1,Ath Bilbao
+13-08-2023,Villarreal,01-Feb,Betis
+18-08-2023,Mallorca,0 - 1,Villarreal
+27-08-2023,Villarreal,03-Apr,Barcelona
+01-09-2023,Cadiz,03-Jan,Villarreal
+17-09-2023,Villarreal,02-Jan,Almeria
+24-09-2023,Vallecano,01-Jan,Villarreal
+27-09-2023,Villarreal,01-Feb,Girona
+30-09-2023,Getafe,0 - 0,Villarreal
+08-10-2023,Villarreal,01-Feb,Las Palmas
+22-10-2023,Villarreal,01-Jan,Alaves
+30-10-2023,Granada,02-Mar,Villarreal
+05-11-2023,Villarreal,02-Mar,Ath Bilbao
+12-11-2023,Ath Madrid,03-Jan,Villarreal
+26-11-2023,Villarreal,03-Jan,Osasuna
+03-12-2023,Sevilla,01-Jan,Villarreal
+09-12-2023,Villarreal,0 - 3,Sociedad
+17-12-2023,Real Madrid,04-Jan,Villarreal
+20-12-2023,Villarreal,03-Feb,Celta
+02-01-2024,Valencia,03-Jan,Villarreal
+13-01-2024,Las Palmas,3 - 0,Villarreal
+20-01-2024,Villarreal,01-Jan,Mallorca
+27-01-2024,Barcelona,03-May,Villarreal
+04-02-2024,Villarreal,0 - 0,Cadiz
+10-02-2024,Alaves,01-Jan,Villarreal
+16-02-2024,Villarreal,01-Jan,Getafe
+23-02-2024,Sociedad,01-Mar,Villarreal
+03-03-2024,Villarreal,05-Jan,Granada
+10-03-2024,Betis,02-Mar,Villarreal
+17-03-2024,Villarreal,1 - 0,Valencia
+01-04-2024,Villarreal,01-Feb,Ath Madrid
+14-04-2024,Ath Bilbao,01-Jan,Villarreal
+21-04-2024,Almeria,01-Feb,Villarreal
+28-04-2024,Villarreal,3 - 0,Vallecano
+05-05-2024,Celta,03-Feb,Villarreal
+11-05-2024,Villarreal,03-Feb,Sevilla
+14-05-2024,Girona,0 - 1,Villarreal
+19-05-2024,Villarreal,04-Apr,Real Madrid
+25-05-2024,Osasuna,01-Jan,Villarreal

@@ -1,3 +1,6 @@
+### <u> XPath Playground to explore the XPath syntax:</u> <a herf='https://scrapinghub.github.io/xpath-playground/'>Click Here</a>
+
+
 # Basic XPath Syntax for Web Scraping
 - **Selecting All Nodes of a Tag:**
 //tagname
@@ -52,12 +55,44 @@
   ```
   <br> **Example:** `(//div)[3]` - Selects the third `<div>` element.
 
-## **Selecting Nodes by Attribute Value Starting with a Specific String**:
-    ```
-    //tagname[starts-with(@attribute, 'value')]
-    ```
+## **Selecting Nodes by Attribute Value Starting with a Specific String**:   
+```
+//tagname[starts-with(@attribute, 'value')]
+```
 
 <br> **Example:** `//input[starts-with(@name, 'user')]` - Selects all `<input>` elements with a `name` attribute starting with 'user'.
+
+
+## **How to get the text of a particular tag:**
+This can only happen incase you are doing the /text over the child node
+```
+//tagname[@attribute='value']/text()    --> works
+//article/text()                        --> doesn't work
+//article//text()                       --> works and will return all the text of it's child nodes
+
+```
+## **Special Characters:**
+-   `.`: Specifies the current context should be used (refers to the present node)
+-   `..`: Refers to the parent node
+-   `*`: A wildcard character that selects all the elements or attributes regardless of the names
+-   `@`: select an attribute
+-   `()`: Grouping an XPath expression
+-   `[n]`: Indicates that a node with index "n" should be selected
+
+<br> **Example**
+        `//h2/..` : return the parent of h2 
+        `//h2/.` : returns h2 since this is the present node
+        `//article/*/text()`: return the text of all the children nodes of article nodes considering the current context
+
+
+## **Signifcance of / and // in XPATH:**
+
+-   `/`: Select the **children** from the node set on the left side of this character
+-   `//`: Specifies that the matching node set should be located at any level within the document
+
+<br>**Example**:  
+`//article/h1/text()` 
+`//h1`
 
 ### Example Usage in Python with lxml
 
