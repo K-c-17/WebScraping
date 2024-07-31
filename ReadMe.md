@@ -191,5 +191,13 @@ When identifying elements in an HTML tree during web scraping, it's important to
 1.  **`find()`**: returns a string element that contains the impacted content of a tag
 2.  **`find_all()`**: return a list of all the tags. **The datatype of these list elements is: `bs4.element.Tag`. You can write .get('href') to get a particular attribute of the tag.
 3.  **`find_all()`**: You can use `find_all(<attribute>=True)` to find out all the tags which have the value of attribute populated.
-4.  
+4.  Beautiful Soup is not designed to scrape **multiple webpages**. You have to use workarounds to enable it to do multi-page webscraping.
 
+-   <u>**XPath**</u>
+1.  XML Path language
+2.  Key to learn web scraping using Selenium and Scrapy
+3.  It is a query language for **selecitng nodes from an XML document.**
+4.  But it can be also used to be used for HTML pages as well
+5.  Another way to select elements from a **CSS Webpage** is using **CSS Selector**
+6.  **CSS and XPath** have some similarity in terms of a syntax
+7.  
